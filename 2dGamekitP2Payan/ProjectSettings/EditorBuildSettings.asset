@@ -45,6 +45,21 @@ EditorBuildSettings:
     path: 
     guid: 2f940f82585e18b42b0512a994a12502
   - enabled: 1
-    path: Assets/NewScene.unity
+    path: 
     guid: a341347ecfade124f817cac8ea56a209
+  - enabled: 1
+    path: Assets/NewScene.unity
+    guid: eb93a5e056edb674b9cb6ef7cbf5ba47
+  - enabled: 1
+    path: 
+    guid: 9f202b027ddb15a44af0a5ce1c1ebc07
+  - enabled: 1
+    path: Assets/2dgamekitscene.unity
+    guid: 0bc0594f8e7a0254492c69c2c5653d35
+  - enabled: 1
+    path: 
+    guid: f8f981460e22df045bee7cf92a4644f1
+  - enabled: 1
+    path: Assets/mylevel.unity
+    guid: f329c5e43296c084e8a293745b9c5ab8
   m_configObjects: {}
